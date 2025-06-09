@@ -1,5 +1,27 @@
 # 💫 About Me:
-👋 About Me<br>I'm an aspiring Cybersecurity Analyst with a strong foundation in threat detection, incident response, and security operations. I enjoy working in fast-paced environments like SOCs, where I can analyze alerts, investigate anomalies, and improve detection logic to protect systems and data.<br><br>🛡️ Core Skills & Focus Areas<br>🖥️ Security Monitoring: Analyzing logs and events to detect suspicious activity<br><br>🚨 Alert Triage & Investigation: Digging into real-time incidents using SIEM/XDR platforms<br><br>📈 Detection Engineering: Writing detection rules, tuning alerts, and reducing false positives<br><br>🧪 Incident Response: Coordinating technical and procedural responses to security events<br><br>🧰 Tools I Use<br>🛠️ SIEM/XDR: Splunk, Wazuh, CrowdStrike Falcon<br><br>🔍 Analysis: Wireshark, YARA, Sigma, Sysmon<br><br>🐍 Scripting: Python for log parsing, IOC enrichment, and automation<br><br>🌐 OSINT (in support of investigations): SpiderFoot, Maltego, Shodan, theHarvester<br><br>🌱 Currently Learning<br>MITRE ATT&CK-based detection mapping<br><br>Threat hunting workflows and automation<br><br>Cloud SOC tools and hybrid log monitoring<br><br>📫 Let’s Connect<br>If you're building cybersecurity tools, running blue team operations, or just love threat detection, I’d love to connect. Explore my projects or reach out through GitHub!<br><br>
+👋 💫 About Me<br>
+I'm an aspiring Cybersecurity Analyst with a strong foundation in threat detection, incident response, and security operations. I enjoy working in fast-paced environments like SOCs, where I can analyze alerts, investigate anomalies, and improve detection logic to protect systems and data.<br><br>
+
+🛡️ Core Skills & Focus Areas<br>
+🧅 Security Onion: Deploying and using Security Onion for real-time network security monitoring and alert investigation<br><br>
+🖥️ Security Monitoring: Analyzing logs and events to detect suspicious activity<br><br>
+🚨 Alert Triage & Investigation: Digging into real-time incidents using SIEM/XDR platforms like Splunk and Security Onion<br><br>
+📈 Detection Engineering: Writing detection rules, tuning alerts, and reducing false positives<br><br>
+🧪 Incident Response: Coordinating technical and procedural responses to security events<br><br>
+
+🧰 Tools I Use<br>
+🛠️ SIEM/XDR: Security Onion, Splunk, Wazuh<br><br>
+🔍 Analysis: Wireshark, Zeek, Sigma, YARA, Sysmon<br><br>
+🐍 Scripting: Python for log parsing, IOC enrichment, and automation<br><br>
+🌐 OSINT (in support of investigations): SpiderFoot, Maltego, Shodan, theHarvester<br><br>
+
+🌱 Currently Learning<br>
+MITRE ATT&CK-based detection mapping<br><br>
+Threat hunting workflows and automation<br><br>
+Cloud SOC tools and hybrid log monitoring<br><br>
+
+📫 Let’s Connect<br>
+If you're building cybersecurity tools, running blue team operations, or just love threat detection, I’d love to connect. Explore my projects or reach out through GitHub!<br><br>
 
 
 ## 🌐 Socials:
