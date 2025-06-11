@@ -1,5 +1,4 @@
 # 💫 About Me:
-👋 💫 About Me<br>
 I'm an aspiring Cybersecurity Analyst with a strong foundation in threat detection, incident response, and security operations. I enjoy working in fast-paced environments like SOCs, where I can analyze alerts, investigate anomalies, and improve detection logic to protect systems and data.<br><br>
 
 🛡️ Core Skills & Focus Areas<br>
